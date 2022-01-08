@@ -4,9 +4,6 @@ namespace amteich\Twig;
 
 use Kirby;
 use Response;
-use Kirby\Cms\App;
-use Kirby\Toolkit\Html;
-use Kirby\Toolkit\Tpl;
 use Kirby\Toolkit\Str;
 
 use \Twig\Environment as Twig_Environment;
